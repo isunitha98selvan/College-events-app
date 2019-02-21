@@ -1,2 +1,2 @@
 # College-events-app
-SE Project
+Documentation work for all Software Engineering Labs.
